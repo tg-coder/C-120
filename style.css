@@ -1,0 +1,50 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    height: 125px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    text-align: center;
+    width: 900px;
+    float: none;
+    height: 70px;
+    padding: 10px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ body
+ {
+  font-family: 'Special Elite', cursive;
+  color:darksalmon;
+  text-align: center;
+ }
+ .result_para_tag span 
+ {
+   white-space: pre-line;
+ }
+
+ .copy_right_footer
+ {
+   position:fixed;
+   color: whitesmoke;
+   bottom: 0px;
+   background-color: powderblue;
+   width: 100%;
+   line-height: 3;
+   text-align:center;
+ }
